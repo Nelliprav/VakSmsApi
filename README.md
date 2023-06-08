@@ -1,4 +1,3 @@
-```
 # VakSmsApi - Документация
 
 Установка самого модуля
@@ -13,11 +12,7 @@ pip install VakSmsApi
 pip install requests
 ```
 
-Список сервисов:
-
 [Список сервисов](https://vak-sms.com/api/vak/#serviceCodeList1)
-
-Список стран и оператор:
 
 [Список стран и операторов](https://vak-sms.com/api/vak/#countryOperatorList1)
 
