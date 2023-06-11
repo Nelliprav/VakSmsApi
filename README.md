@@ -66,9 +66,7 @@ get_progl = api.prolongNumber(service="СЕРВИС", tel="НОМЕР ТЕЛЕФ
 print(get_progl)
 
 # Изменение статуса
-status_change = api.change_status
-
-(idNum="ID временного номера", status="Статус")
+status_change = api.change_status(idNum="ID временного номера", status="Статус")
 print(status_change)
 
 # Получить SMS
